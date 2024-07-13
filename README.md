@@ -31,4 +31,5 @@ git add file.txt - добавить в содержимое репозитори
 git status - вывод информации о состоянии репозитория
 git commit -m "first commit" - коммит с сообщением "first commit", то есть загрузка на Git
 git log - история коммитов
+git push - загрузить коммиты на Git
 ```
